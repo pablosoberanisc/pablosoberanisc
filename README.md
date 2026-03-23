@@ -2,5 +2,5 @@
 
 <p align="center">
   Las piedras hablarán<br><br>
-  <a href="https://pablosoberanisc.github.io">Ver mi portafolio</a>
+  <a href="https://pablosoberanisc.github.io" target="blank">Ver mi portafolio</a>
 </p>
