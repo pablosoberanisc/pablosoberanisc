@@ -1,6 +1,9 @@
-<h1 align="center">Pablo Soberanis </h1>
+<h1 align="center">Pablo Soberanis</h1>
 
 <p align="center">
-  Las piedras hablarán<br><br>
-  <a href="https://pablosoberanisc.github.io" target="_blank">Ver mi portafolio</a>
+  <i>"Las piedras hablarán"</i><br><br>
+
+  <a href="https://pablosoberanisc.github.io" target="_blank" rel="noopener noreferrer">
+     Ver mi portafolio
+  </a>
 </p>
